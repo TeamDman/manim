@@ -101,6 +101,7 @@ dev = [
     "types-pygments>=2.19.0.20250107",
     "psutil>=6.1.1",
     "requests>=2.32.3",
+    "sphinx-markdown-builder>=0.6.8",
 ]
 
 [build-system]
